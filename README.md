@@ -5,15 +5,13 @@
 ---
 
 ## 🧰 About Me
-- 🎓 **Education**: Computer Education from Boğaziçi University.
-- 💼 **Current Role**: Software Developer specializing in building scalable and efficient solutions.
+- 🎓 **Education**: Computer Education from Boğaziçi University..
 - 🌱 **Currently Learning**: Advanced **.NET Technologies** and modern web development practices.
 - ✨ **Interests**: 
   - 🌐 Web Development
   - 🤖 Artificial Intelligence
   - 📊 Data Science
   - 💻 Full-Stack Development
-  - 🛠 Open Source Contributions
 
 ---
 
